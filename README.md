@@ -29,7 +29,7 @@ application.
 
 Here's the specification:
 
-* Add the `.hidden` class to the error modal in the HTML so it
+* Add the `.hidden` class to the error model in the HTML so it
   does not appear when the page first loads
 * When a user clicks on an empty heart ("Recognizing events")
   * Invoke `mimicServerCall` to simulate making a server request
